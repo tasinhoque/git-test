@@ -13,7 +13,7 @@ slide: https://hackmd.io/p/template-Talk-slide
 
 We have a collaborative session
 
-please prepare laptop or smartphone to join!
+Please prepare laptop or smartphone to join!
 
 ---
 
